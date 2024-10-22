@@ -4,19 +4,19 @@
     "url": "https://helpr.gg",
     "icon": "https://icons.duckduckgo.com/ip3/helpr.gg.ico",
     "slug": "helpr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1625,
-    "timeDay": 1871,
-    "timeWeek": 1880,
-    "timeMonth": 1653,
-    "timeYear": 1625,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 1626,
+    "timeDay": 1781,
+    "timeWeek": 1857,
+    "timeMonth": 1654,
+    "timeYear": 1626,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 21
     }
   }
 ]
