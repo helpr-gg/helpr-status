@@ -6,15 +6,15 @@
     "slug": "helpr",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1634,
-    "timeDay": 1846,
-    "timeWeek": 1862,
-    "timeMonth": 1660,
-    "timeYear": 1634,
+    "time": 1635,
+    "timeDay": 1695,
+    "timeWeek": 1840,
+    "timeMonth": 1642,
+    "timeYear": 1635,
     "dailyMinutesDown": {
       "2024-10-22": 21
     }
