@@ -1,10 +1,10 @@
 [
   {
     "name": "Helpr",
-    "url": "https://bot.helpr.gg",
-    "icon": "https://icons.duckduckgo.com/ip3/bot.helpr.gg.ico",
+    "url": "https://helpr.gg",
+    "icon": "https://icons.duckduckgo.com/ip3/helpr.gg.ico",
     "slug": "helpr",
-    "status": "up",
+    "status": "down",
     "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1875,
     "timeYear": 1734,
     "dailyMinutesDown": {
+      "2025-06-25": 0,
       "2025-02-07": 25,
       "2025-01-14": 125,
       "2025-01-13": 1440,
