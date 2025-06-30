@@ -1,5 +1,5 @@
 owner: helpr-gg # GitHub username
-repo: status # GitHub repository name
+repo: helpr-status # GitHub repository name
 sites: # List of endpoints to track
   - name: Website
     url: https://bot.helpr.gg
