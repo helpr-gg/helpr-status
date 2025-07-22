@@ -4,18 +4,20 @@
     "url": "https://bot.helpr.gg",
     "icon": "https://icons.duckduckgo.com/ip3/bot.helpr.gg.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1340,
-    "timeDay": 566,
-    "timeWeek": 1187,
-    "timeMonth": 1340,
-    "timeYear": 1340,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1311,
+    "timeDay": 581,
+    "timeWeek": 1113,
+    "timeMonth": 1311,
+    "timeYear": 1311,
+    "dailyMinutesDown": {
+      "2025-07-22": 20
+    }
   },
   {
     "name": "Docs",
