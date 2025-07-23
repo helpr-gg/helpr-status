@@ -1,8 +1,8 @@
 [
   {
     "name": "Website",
-    "url": "https://bot.helpr.gg",
-    "icon": "https://icons.duckduckgo.com/ip3/bot.helpr.gg.ico",
+    "url": "https://helpr.gg",
+    "icon": "https://icons.duckduckgo.com/ip3/helpr.gg.ico",
     "slug": "website",
     "status": "up",
     "uptime": "99.94%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1284,
-    "timeDay": 603,
-    "timeWeek": 1018,
-    "timeMonth": 1284,
-    "timeYear": 1284,
+    "time": 1248,
+    "timeDay": 510,
+    "timeWeek": 941,
+    "timeMonth": 1248,
+    "timeYear": 1248,
     "dailyMinutesDown": {
       "2025-07-22": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 170,
-    "timeWeek": 243,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "time": 233,
+    "timeDay": 156,
+    "timeWeek": 231,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   }
 ]
