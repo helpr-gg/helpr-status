@@ -2,7 +2,7 @@ owner: helpr-gg # GitHub username
 repo: helpr-status # GitHub repository name
 sites: # List of endpoints to track
   - name: Website
-    url: https://bot.helpr.gg
+    url: https://helpr.gg
   - name: Docs
     url: https://docs.helpr.gg
 assignees: # Users to assign downtime issues (optional)
