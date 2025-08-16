@@ -4,7 +4,7 @@
     "url": "https://helpr.gg",
     "icon": "https://icons.duckduckgo.com/ip3/helpr.gg.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 481,
     "timeYear": 806,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-07-22": 20
     }
   },
